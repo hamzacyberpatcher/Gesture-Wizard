@@ -14,8 +14,6 @@
 |---|---|
 | ![Game Over](screenshots/game_over.png) | ![Spell Casting](screenshots/spell_casting.png) |
 
-> **Note:** Add your own screenshots to a `screenshots/` folder in the project root and update the paths above.
-
 ---
 
 ## ✨ Features
